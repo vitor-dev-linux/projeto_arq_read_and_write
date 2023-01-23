@@ -8,7 +8,7 @@
  <p></p>
  * Caso ele não encontre, ele deve cadastrar os usuários para criar o arquivo "dados.bin".
  <p></p>
- <h3>OBS:: Caso o uso de vetores de objetos em qualquer dos casos é usado para melhor dominio de coisas como: Alocação dinamica de objetos, calculo de tamanho de arquivo interminado. etc</h3>
+ <h3>OBS:: Caso o uso de vetores de objetos em qualquer dos casos é usado para melhor dominio de coisas como: Alocação dinamica de objetos, calculo de tamanho de arquivo interminado etc.</h3>
  <p></p>
 <p></p>
 <p></p>
